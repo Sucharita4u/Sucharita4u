@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 ### Connect On me:
 
 [<img align='left' alt='LINKEDIN' width='36px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png'/>](https://www.linkedin.com/in/sucharita-dash/)
-[<img align='left' alt='TWITTER'  width='38px' src='https://cdn-icons-png.flaticon.com/512/733/733579.png'/>](https://twitter.com/SucharitaD79028?t)  
+[<img align='left' alt='TWITTER'  width='45px' src='https://cdn-icons-png.flaticon.com/512/733/733579.png'/>](https://twitter.com/SucharitaD79028?t)  
 <br>
