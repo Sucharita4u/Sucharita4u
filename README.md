@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 -->
 ### I am a Data Science Enthusiast
 
-- 🔭 I’m currently working on Capgemini As a Associate Consultant.
+- 🔭 I’m currently working on Capgemini as a Associate Consultant.
 - 🌱 I’m also pursuing Masters Programe in Data Science at Simplilearn.
-- 👯 I’m also Currently building different Projects related to Data Sceince.
+- 👯 I’m Currently building different Projects related to Data Sceince.
 
 ### Connect On Me:
 
